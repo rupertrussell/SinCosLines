@@ -2,6 +2,7 @@
 // https://www.openprocessing.org/sketch/544500
 // fork by Rupert Russell 23 July 2020
 // artwork on redbubble at: 
+// Code on Github at: https://github.com/rupertrussell/SinCosLines
 
 // factor = -1.0E-5_v1=0.41559017_numLines=922
 // factor = 1.0E-6_v1=0.35820705_numLines=925
